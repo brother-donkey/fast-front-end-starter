@@ -1,0 +1,21 @@
+{
+  "name": "fast-exp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Will Bjorn <wibjorn@microsoft.com>",
+  "license": "MIT",
+  "browserslist": [
+    "since 2017-06"
+  ],
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "@microsoft/fast-element": "^0.14.0",
+    "parcel-bundler": "^1.12.4"
+  },
+  "devDependencies": {
+    "sass": "^1.26.10",
+    "typescript": "^3.9.6"
+  }
+}
